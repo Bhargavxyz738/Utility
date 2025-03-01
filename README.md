@@ -224,7 +224,7 @@ The library is divided into several categories for easy reference. Note that mos
 ### Animations
 | Class | Description|
 |:-------|:-----------|
-| `loader` | Creates an black animated loader which has an spining animations |
+| `loader-spin` | Creates an black animated loader which has an spining animations |
 
 ## Future Vision 
 The following Utility Framework is out for early testers, we will continue to refine our utility framework and bring more short cut classes to reduce your load and make it more easy to use and bigginer friendly.
