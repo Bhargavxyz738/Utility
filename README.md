@@ -105,7 +105,7 @@ The library is divided into several categories for easy reference. Note that mos
 |`.minw-f`         |`min-width: 100%;`            |
 |`.minh-f`          |`min-height: 100%;`     |
 
-### Dynamic Sizing (with `utility.js`)
+### Dynamic Sizing
 
 | Class Pattern        | Description                                                                  | Example            |
 | :------------------- | :--------------------------------------------------------------------------- | :----------------- |
@@ -117,7 +117,7 @@ The library is divided into several categories for easy reference. Note that mos
 |`l-[value][unit]`    | Sets the `left` position.                                                     | `l-20%`            |
 |`r-[value][unit]`    | Sets the `right` position.                                                    | `r-1rem`           |
 
-### Dynamic Padding and Margins (with `utility.js`)
+### Dynamic Padding and Margins
 
 | Class Pattern         | Description                                                             | Example             |
 | :-------------------- | :---------------------------------------------------------------------- | :------------------ |
@@ -147,7 +147,7 @@ The library is divided into several categories for easy reference. Note that mos
 | `.br-white`  | `border: 1px solid white;`   |
 |`.br-skyblue`  |`border: 1px solid skyblue;` |
 
-### Dynamic Border Radius (with `utility.js`)
+### Dynamic Border Radius
 
 | Class Pattern         | Description               | Example            |
 | :-------------------- | :------------------------ | :----------------- |
@@ -198,17 +198,17 @@ The library is divided into several categories for easy reference. Note that mos
 |`.ls-w`     |  `letter-spacing: 4px;`             |
 | `.ws`        | `word-spacing: 4px;`                |
 
-### Dynamic Font Size (with `utility.js`)
+### Dynamic Font Size
 | Class Pattern      | Description         | Example           |
 | :----------------- | :------------------ | :---------------- |
 | `text-[value][unit]` | Sets `font-size`.   | `text-16px`, `text-1.2em` |
 
-### Dynamic Text Color (with `utility.js`)
+### Dynamic Text Color
 | Class Pattern | Description         | Example         |
 | :------------ | :------------------ | :-------------- |
 | `c-[color]`   | Sets `color`.       | `c-red`, `c-blue` |
 
-### Dynamic Background Color (with `utility.js`)
+### Dynamic Background Color
 | Class Pattern | Description         | Example             |
 | :------------ | :------------------ | :------------------ |
 | `bg-[color]`   | Sets `background-color`. | `bg-yellow`, `bg-green` |
