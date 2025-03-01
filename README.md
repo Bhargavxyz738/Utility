@@ -221,6 +221,11 @@ The library is divided into several categories for easy reference. Note that mos
 | `.op-75`  | `opacity: 0.75;`  |
 | `.op-100` | `opacity: 1;`     |
 
+### Animations
+| Class | Description|
+|:-------|:-----------|
+| `loader` | Creates an black animated loader which has an spining animations |
+
 ## Future Vision 
 The following Utility Framework is out for early testers, we will continue to refine our utility framework and bring more short cut classes to reduce your load and make it more easy to use and bigginer friendly.
 
