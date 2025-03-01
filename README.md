@@ -221,6 +221,10 @@ The library is divided into several categories for easy reference. Note that mos
 | `.op-75`  | `opacity: 0.75;`  |
 | `.op-100` | `opacity: 1;`     |
 
+## Future Vision 
+The following Utility Framework is out for early testers, we will continue to refine our utility framework and bring more short cut classes to reduce your load and make it more easy to use and bigginer friendly.
+
+NOTE:- Our AIM is to reduce all the limitations that Tailwind CSS have and make the process of development essy for everyone, the following Github Repo is Open-Source and everyone can use it without any LISENCE.
 ## Contributing
 
 Contributions are welcome! If you find a bug or have a suggestion for a new utility class, please open an issue or submit a pull request. Please follow the existing naming conventions and coding style.
