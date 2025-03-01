@@ -36,7 +36,6 @@ The library is divided into several categories for easy reference. Note that mos
 | `.flex-no-wrap`    | `flex-wrap: nowrap;`                             |
 | `.flex-grow-1`    | `flex-grow: 1;`                                  |
 | `.flex-shrink-1`  | `flex-shrink: 1;`                                |
-| `.flex-center`     | `display: flex; justify-content: center; align-items: center;` |
 | `.flex-start`      | `justify-content: flex-start;`                   |
 | `.flex-end`        | `justify-content: flex-end;`                     |
 | `.flex-space-evenly`| `justify-content: space-evenly;`                 |
